@@ -1,0 +1,11 @@
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\bin\Debug\netcoreapp2.2\write_testable_code.deps.json
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\bin\Debug\netcoreapp2.2\write_testable_code.runtimeconfig.json
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\bin\Debug\netcoreapp2.2\write_testable_code.runtimeconfig.dev.json
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\bin\Debug\netcoreapp2.2\write_testable_code.dll
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\bin\Debug\netcoreapp2.2\write_testable_code.pdb
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\obj\Debug\netcoreapp2.2\write_testable_code.csprojAssemblyReference.cache
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\obj\Debug\netcoreapp2.2\write_testable_code.csproj.CoreCompileInputs.cache
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\obj\Debug\netcoreapp2.2\write_testable_code.AssemblyInfoInputs.cache
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\obj\Debug\netcoreapp2.2\write_testable_code.AssemblyInfo.cs
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\obj\Debug\netcoreapp2.2\write_testable_code.dll
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\obj\Debug\netcoreapp2.2\write_testable_code.pdb

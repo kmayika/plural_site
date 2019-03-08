@@ -1,0 +1,4 @@
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\test\obj\Debug\netstandard2.0\test.csprojAssemblyReference.cache
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\test\obj\Debug\netstandard2.0\test.csproj.CoreCompileInputs.cache
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\test\obj\Debug\netstandard2.0\test.AssemblyInfoInputs.cache
+C:\Users\kwezim\Documents\PoE\pluralsight_courses\write_testable_code\test\obj\Debug\netstandard2.0\test.AssemblyInfo.cs
